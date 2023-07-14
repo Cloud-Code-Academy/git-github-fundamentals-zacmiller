@@ -1,3 +1,4 @@
+UPDATING README FILE AND COMMITTING TO ZACSBRANCH AND HOPEFULLY COMMITTING A PR
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
